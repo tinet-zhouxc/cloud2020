@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * 实体类1111
+ * 实体类2222222222222
  *
  */
 @Data
